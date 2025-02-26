@@ -28,4 +28,4 @@ Developed and maintained various conference talks, online training, and in-perso
 Managed multiple _asynchronous teams_ in the development, maintenance, and release of various web applications and websites.
 
 ### Language
-English, German and Portuguese
+English, German and Portuguese -
